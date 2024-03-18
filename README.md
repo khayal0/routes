@@ -1,5 +1,4 @@
 # React + TypeScript + Vite
 
 To run the project:
-npm install
-npm run dev
+1.npm install && npm run dev
