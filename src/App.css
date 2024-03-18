@@ -1,0 +1,35 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+  font-family: Geneva, sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+}
+table td {
+  padding: 12px;
+}
+
+table thead th {
+  font-weight: bold;
+  font-size: 11px;
+  border: 1px solid #54585d;
+}
+table tbody td {
+  color: #636363;
+  border: 1px solid #dddfe1;
+}
+table tbody tr {
+  background-color: #f9fafb;
+}
+table tbody tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+.route-table__name {
+  font-size: 16px;
+  display: flex;
+}
